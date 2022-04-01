@@ -1,4 +1,4 @@
-Projeto referente ao curso "Sintaxe e Operadores"  aplicados pela Engenheira de Software Stephany Nusch, na plataforma da [Digital Innovation One](https://digitalinnovation.one/).
+Projeto referente ao curso "Sintaxe e Operadores"  aplicado pela Engenheira de Software Stephany Nusch, na plataforma da [Digital Innovation One](https://digitalinnovation.one/).
 
 ## Atividade:
 

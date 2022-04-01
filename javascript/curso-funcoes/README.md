@@ -1,4 +1,4 @@
-Projetos referentes ao curso "Funções"  aplicados pela Engenheira de Software Stephany Nusch, na plataforma da [Digital Innovation One](https://digitalinnovation.one/).
+Projetos referentes ao curso "Funções"  aplicado pela Engenheira de Software Stephany Nusch, na plataforma da [Digital Innovation One](https://digitalinnovation.one/).
 
 ## Atividade 1: Alunos Aprovados
 
